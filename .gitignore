@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# VSCode
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Virtualenv
+venv/
+.env/
+.venv/
+
+# Poetry
+poetry.lock
+
+# Pytest
+.coverage
+htmlcov/
+.tox/
+.cache/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Migration backups
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
